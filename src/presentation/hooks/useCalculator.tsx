@@ -44,7 +44,6 @@ export const useCalculator = () => {
   }
 
 
-
   return {
     // Properties
     number,
